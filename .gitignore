@@ -1,0 +1,8 @@
+### Python template
+
+# *.pyc, *.pyo, *.pyd will be ognored by Git
+*.py[cod]
+
+# directory log/ will be ignored by Git
+log/
+
