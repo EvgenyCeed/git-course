@@ -6,3 +6,4 @@
 # directory log/ will be ignored by Git
 log/
 
+errors.txt
